@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Onida / Das Coaching</title>
-    <link>http://onida.github.io/</link>
-    <description>Recent content on Onida / Das Coaching</description>
+    <title>ONIDA / Das Coaching</title>
+    <link>http://onida-coaching.de/</link>
+    <description>Recent content on ONIDA / Das Coaching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
-    <atom:link href="http://onida.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://onida-coaching.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://onida-coaching.de/contact/contact/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://onida-coaching.de/contact/contact/</guid>
+      <description>&lt;p&gt;Wenn Sie Interesse an ONIDA haben, schreiben Sie uns:&lt;/p&gt;
+
+&lt;p&gt;kontakt@onida-coaching.de&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Das Coaching</title>
-      <link>http://onida.github.io/about/about/</link>
+      <link>http://onida-coaching.de/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://onida.github.io/about/about/</guid>
+      <guid>http://onida-coaching.de/about/about/</guid>
       <description>&lt;p&gt;Die Arbeitsbelastung der Mediziner ist hoch. Ärzte und Ärztinnen haben ein erhöhtes Risiko zu Burnout, Depression und Sucht. Das wissen Sie. Ärztinnen weisen außerdem eine alarmierend hohe Suizidalität auf. Besonders junge Ärztinnen sind deutlich unzufriedener mit Ihrer Arbeit und weniger selbstbewusst als ihre erfahreneren Kolleginnen. Das wissen Sie auch. Und dass dies für die deutsche Gesundheitsversorgung nicht nur wegen der vielen belastungsbedingten Krankheitstage und nicht nur heute, sondern auch in Zukunft, eine große Herausforderung darstellt, wissen Sie ebenfalls.&lt;/p&gt;
 
 &lt;p&gt;Und wissen Sie auch, was Sie dagegen tun können?&lt;/br&gt;

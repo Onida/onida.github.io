@@ -1,0 +1,14 @@
+<!-- contact Section -->
+<section id="contact" class="container content-section text-center">
+{{ range where .Data.Pages "Section" "contact" | first 1 }}
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h2>{{ .Title }}</h2>
+			<br/>
+			<div class=".lead text-center">
+			{{ .Content }}
+			</div>
+		</div>
+	</div>
+{{ end }}
+</section>
