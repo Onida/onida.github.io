@@ -1,5 +1,6 @@
-baseurl = "http://onida-coaching.de"
-languageCode = "en-us"
+baseurl = "http://onida.github.io"
+publishdir = "../"
+languageCode = "de"
 title = "ONIDA / Das Coaching"
 #canonifyUrls = "true"
 theme = "onida-theme"
