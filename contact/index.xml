@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on ONIDA / Das Coaching</title>
-    <link>http://localhost:1313/contact/</link>
+    <link>http://onida.github.io/contact/</link>
     <description>Recent content in Contacts on ONIDA / Das Coaching</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://onida.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kontakt</title>
-      <link>http://localhost:1313/contact/contact/</link>
+      <link>http://onida.github.io/contact/contact/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/contact/contact/</guid>
+      <guid>http://onida.github.io/contact/contact/</guid>
       <description>&lt;p&gt;Wenn Sie Interesse an ONIDA haben, schreiben Sie uns:&lt;/p&gt;
 
-&lt;p&gt;kontakt@onida-coaching.de&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:kontakt@onida-coaching.de&#34;&gt;kontakt@onida-coaching.de&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
