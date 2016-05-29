@@ -6,4 +6,4 @@ title = "Kontakt"
 
 Wenn Sie Interesse an ONIDA haben, schreiben Sie uns:
 
-[onida@anne-friebel.de](mailto:onida@anne-friebel.de)
+[onida@annefriebel.de](mailto:onida@annefriebel.de)
