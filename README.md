@@ -1,2 +1,2 @@
 # onida.github.io
-Repo for onida-coaching.de
+Repo for onida.github.io
